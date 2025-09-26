@@ -2,7 +2,7 @@ title: "My TryHackMe Portfolio"
 description: "Cybersecurity notes, labs, and writeups"
 author: yourname
 #theme: jekyll-theme-minimal
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: pages-themes/Midnight
 
 # Optional extras
 markdown: kramdown
