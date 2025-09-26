@@ -1,2 +1,2 @@
 THM CTF\
-*[Easypeasy](https://clnath.github.io/clnath.github.io-test3/)\
+  1. [Easypeasy](https://clnath.github.io/clnath.github.io-test3/)\
