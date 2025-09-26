@@ -1,4 +1,2 @@
 -THM CTF\
--Easypeasy\
--[LINK](https://clnath.github.io/clnath.github.io-test3/) /new\
--[LINK2](youtube.com)
+-[Easypeasy](https://clnath.github.io/clnath.github.io-test3/)\
