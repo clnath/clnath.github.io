@@ -1,7 +1,7 @@
 title: "My TryHackMe Portfolio"
 description: "Cybersecurity notes, labs, and writeups"
 author: yourname
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 remote_theme: Hacker
 
 # Optional extras
