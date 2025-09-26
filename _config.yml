@@ -1,1 +1,11 @@
+title: "My TryHackMe Portfolio"
+description: "Cybersecurity notes, labs, and writeups"
+author: yourname
+theme: minima
+
+# Optional extras
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
