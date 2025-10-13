@@ -1,7 +1,7 @@
 THM CTF
   1. [Easypeasy](https://clnath.github.io/clnath.github.io-THM_CTF_EasyPeasy/)
   2. [BLASTER](https://clnath.github.io/clnath.github.io-THM_CTF/Bluster/Blaster.htm)
-  3. [Simple CTF]()
+  3. [Simple CTF](https://clnath.github.io/clnath.github.io-THM_CTF/SimpleCTF/Simple_CTF.htm)
   4. Coming soon
 
 
