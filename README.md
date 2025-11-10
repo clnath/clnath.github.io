@@ -9,4 +9,4 @@ Vulnhub
   1. [ICA1](https://clnath.github.io/clnath.github.io-CTF/ica1/ica1.htm)
 
 CVE
-  1. [CVE-2024-38063]()
+  1. [CVE-2024-38063](https://clnath.github.io/clnath.github.io-THM_CTF/CVEP_2024_38063/Windows_RCE.html)
